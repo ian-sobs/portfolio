@@ -58,7 +58,7 @@ export const portfolioData = {
       frameworks: []
     }, {
       name: "Javascript",
-      frameworks: ["React", "Next.js", "NodeJ.js"]
+      frameworks: ["React", "Next.js", "Node.js"]
     }, {
       name: "Python",
       frameworks: []
